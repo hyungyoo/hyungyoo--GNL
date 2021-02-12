@@ -17,4 +17,4 @@
 ## 3줄 요약
 - static variable을 사용해야함
 - write, read, open, close함수들을 공부해야함
-- 구현이 재밌음
+- 모든 버퍼 사이즈에 대해서 작동해야함. 각 버퍼사이즈만큼 malloc과 free를 반복하는사람들도있음
